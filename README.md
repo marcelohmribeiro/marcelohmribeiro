@@ -9,4 +9,4 @@
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,javascript,react,css,tailwindcss,nodejs,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,tailwindcss,nodejs,mysql,git)](https://skillicons.dev)
