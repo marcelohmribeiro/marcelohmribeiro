@@ -1,9 +1,7 @@
 <code>console.log("Welcome to my github!😆")</code>
 
-<hr>
 <p>🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifor.br/" target="_blank">Unifor</a></p>
 <p>🌐 Inglês intermediário — atualmente estudando no <a href="https://www.cna.com.br/" target="_blank">CNA</a></p>
-<hr>
 
 #### Skills
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
