@@ -1,7 +1,9 @@
 <code>console.log("Welcome to my github!😆")</code>
 
+<hr>
 <p>🎓 <strong>Graduando</strong> em Análise e Desenvolvimento de Sistemas na <a href="https://www.unifor.br/" target="_blank">Unifor</a></p>
 <p>🌐 Inglês intermediário — atualmente estudando no <a href="https://www.cna.com.br/" target="_blank">CNA</a></p>
+<hr>
 
 #### Skills
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
@@ -20,6 +22,7 @@
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
 [![MYSQL](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![POSTGRESQL](https://img.shields.io/badge/postgresql-000000?style=for-the-badge&logo=postgresql&logoColor=white)]()
+<hr>
 
 #### Socials
 [![GMAIL](https://img.shields.io/badge/marcelomarquesribeiro1@gmail.com-000000?style=flat&logo=Gmail&logoColor=white)](mailto:marcelomarquesribeiro1@gmail.com)
