@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,express,python,mysql,postgresql,firebase,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,dotnet,react,next,tailwind,nodejs,express,mysql,postgresql,firebase,docker,git)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=marcelohmribeiro&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
